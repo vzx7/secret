@@ -1,0 +1,23 @@
+{
+  "name": "secret",
+  "version": "1.0.0",
+  "description": "Encryption, decryption of data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vzx7/secret.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vzx7/secret/issues"
+  },
+  "homepage": "https://github.com/vzx7/secret#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
